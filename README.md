@@ -1,2 +1,2 @@
 # Hashing-For-Security
-Securing Access Management System through Hashing . 
+Securing Account Management System through Hashing . 
