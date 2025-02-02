@@ -29,7 +29,7 @@ Securely wipes sensitive data after use
 
 Prevents unauthorized access with sound alerts & color-coded feedback
 
-How to Use
+# How to Use
 
 Main Files
 
