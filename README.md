@@ -31,7 +31,7 @@ Prevents unauthorized access with sound alerts & color-coded feedback
 
 # How to Use
 
-Main Files
+Main File
 
 Hashing.cpp is the main file that drives the program.
 
@@ -48,7 +48,7 @@ Configuring Sound in Dev-C++
 
 To enable sound functionality in Dev-C++, follow these steps: Go to Tools > Compiler Options. Add -lwinmm to the linker commands.
 
-Support
+# Support
 
 If you encounter any issues or need assistance, feel free to contact me. I’ll be happy to help resolve any problems.
 
